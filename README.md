@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋 I'm Harsh Sharma
 
-<!--
-**harsh0101001/Harsh0101001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE Student  
+🤖 Future AI / Machine Learning Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+• HTML  
+• CSS  
+• JavaScript  
+• Python (Beginner)  
+• Git & GitHub  
+
+---
+
+## 📚 Currently Learning
+
+• Machine Learning  
+• Deep Learning  
+• Data Science  
+
+---
+
+## 🎯 Goals
+
+• Become an AI Engineer  
+• Build intelligent systems  
+• Work at top tech companies  
+
+---
+
+## 🔗 Connect With Me
+
+GitHub: https://github.com/Harsh0101001  
+LinkedIn:
